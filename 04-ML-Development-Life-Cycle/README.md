@@ -2,20 +2,24 @@
 
 ## Notes and Diagrams
 
-![Process Of ML](images/ml-process-000.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-000.png)
 
-![Process Of ML](images/ml-process-001.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-001.png)
 
-![Process Of ML](images/ml-process-002.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-002.png)
 
-![Process Of ML](images/ml-process-003.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-003.png)
 
-![Process Of ML](images/ml-process-004.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-004.png)
 
-![Process Of ML](images/ml-process-005.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-005.png)
 
-![Process Of ML](images/ml-process-006.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-006.png)
 
-![Process Of ML](images/ml-process-007.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-007.png)
 
-![Process Of ML](images/ml-process-008.png)
+![ML Development Life Cycle](images/ml-development-life-cycle-008.png)
+
+![ML Development Life Cycle](images/ml-development-life-cycle-009.png)
+
+![ML Development Life Cycle](images/ml-development-life-cycle-010.png)
