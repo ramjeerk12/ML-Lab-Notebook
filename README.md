@@ -7,6 +7,7 @@ A structured repository documenting my Machine Learning journey, including notes
 - [01. Types Of ML](./01-Types-Of-ML)
 - [02. Other Types Of ML](./02-Other-Types-Of-ML)
 - [03. Process Of ML](./03-Process-Of-ML)
+- [04. ML Development Life Cycle](./04-ML-Development-Life-Cycle)
 
 ## Topics Covered
 
