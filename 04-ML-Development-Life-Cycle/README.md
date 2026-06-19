@@ -19,7 +19,3 @@
 ![ML Development Life Cycle](images/ml-development-life-cycle-007.png)
 
 ![ML Development Life Cycle](images/ml-development-life-cycle-008.png)
-
-![ML Development Life Cycle](images/ml-development-life-cycle-009.png)
-
-![ML Development Life Cycle](images/ml-development-life-cycle-010.png)
